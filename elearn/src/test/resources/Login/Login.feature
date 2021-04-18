@@ -23,8 +23,8 @@ Then message should be sent sucessfully
 Examples:
 
 |firstname|lastname|email                    |username|password    |reciever|subject               |
-|Abburi   |bhavana |abburi12bhavana@gmail.com|abbui  |bhavanaA@123 |naveen  |Hi this is for testing|
-|bhavana  |abburi  |abburi12bhavana@gmail.com|abb2ui |bhavanaA@123 |sai     |Hi this is for testing|
-|bhavana  |abburi  |abburi12bhavana@gmail.com|a1bb2ui|bhavanaA@123 |sai     |Hi this is for testing|
+|Abburi   |bhavana |abburi12bhavana@gmail.com|abbusai  |bhavanaA@123 |naveen  |Hi this is for testing|
+|bhavana  |abburi  |abburi12bhavana@gmail.com|abbuma |bhavanaA@123 |sai     |Hi this is for testing|
+|bhavana  |abburi  |abburi12bhavana@gmail.com|abbbhava|bhavanaA@123 |sai     |Hi this is for testing|
 
 
